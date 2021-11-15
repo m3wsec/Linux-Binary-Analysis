@@ -4,4 +4,6 @@
 ![avatar](images/procmap.png)
 
 * after ptrace procmap
-![avatar](images/ptraced_procmap.png
+
+![avatar](images/ptraced_procmap.png)
+
